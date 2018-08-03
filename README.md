@@ -11,6 +11,10 @@
 ## Survey 
 ## Games
 ### Tic-Tac-Toe
+### Prime Numbers 
+### Pascal's Triangle Calculator 
+### Permulation Tool 
+
 
 
 
