@@ -20,7 +20,7 @@ this is *italic*
     5. programming
 
 ## Academic Experience 
-### SAIT - OOSD (3.9 GPA)
+### SAIT - Object Oriented Software Developer (OOSD) (3.9 GPA)
 - proudest moments 
 ### Code Academy Pro - Python Programming Intensive
 - what I love about Python 
